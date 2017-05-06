@@ -19,7 +19,7 @@ Viatick
 
 Singapore 088804
 
-Email
+Email:
 
 enquiry@viatick.com
 
