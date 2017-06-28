@@ -25,11 +25,17 @@ enquiry@viatick.com
 
 ### Types of Data collected
 
-Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Microphone permission.
+Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Microphone permission. Bluetooth permission.
 
-Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection. The Personal Data may be freely provided by the User, or collected automatically when using this Application. Any use of Cookies - or of other tracking tools - by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User. Failure to provide certain Personal Data may make it impossible for this Application to provide its services.
+Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection. The Personal Data may be freely provided by the User, or collected automatically when using this Application.  Any use of Cookies - or of other tracking tools - by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User. Failure to provide certain Personal Data may make it impossible for this Application to provide its services.
 
 Users are responsible for any Personal Data of third parties obtained, published or shared through this Application and confirm that they have the third party's consent to provide the Data to the Owner.
+
+Other Personal Data are classified as follows:
+
+1. Location information and destination information;
+2. Your phone number, email address, and other similar contacts data;
+3. Password, and similar contacts data;
 
 ### Mode and place of processing the Data
 
@@ -53,8 +59,7 @@ The Personal Data used for each purpose is outlined in the specific sections of 
 
 ### Device permissions for Personal Data access
 
-This Application requests certain permissions from Users that allow it to access the User's device Data as described below.
-By default, these permissions must be granted by the User before the respective information can be accessed. Once the permission has been given, it can be revoked by the User at any time. In order to revoke these permissions, Users may refer to the device settings or contact the Owner for support at the contact details provided in the present document. The exact procedure for controlling app permissions may be dependent on the User's device and software.
+This Application requests certain permissions from Users that allow it to access the User's device Data as described below. One of such is to enable Bluetooth on the Users' devices, for the purpose of unlocking the locks at the bicycle stands. By default, these permissions must be granted by the User before the respective information can be accessed. Once the permission has been given, it can be revoked by the User at any time. In order to revoke these permissions, Users may refer to the device settings or contact the Owner for support at the contact details provided in the present document.  The exact procedure for controlling app permissions may be dependent on the User's device and software.
 
 Please note that the revoking of such permissions might impact the proper functioning of this Application.
 
@@ -63,6 +68,10 @@ If User grants any of the permissions listed below, the respective Personal Data
 ##### Microphone permission
 
 Used for accessing and recording microphone audio from the User's device.
+
+##### Bluetooth permission
+
+Used for accessing the locks at the bicycle stands and to receive surprises that can be redeemed or used at participating outlets.
 
 ### Detailed information on the processing of Personal Data
 
@@ -75,7 +84,7 @@ Personal Data is collected for the following purposes and using the following se
     Device permissions for Personal Data access (This Application)
 
     This Application requests certain permissions from Users that allow it to access the User's device Data as summarized here and described within this document.
-    Personal Data collected: Microphone permission.
+    Personal Data collected: Microphone permission. Bluetooth permission.
 
 ### Additional information about Data collection and processing
 
@@ -100,6 +109,13 @@ More details concerning the collection or processing of Personal Data may be req
 Users have the right, at any time, to know whether their Personal Data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Data Controller at the contact information set out above.
 
 This Application does not support “Do Not Track” requests. To determine whether any of the third party services it uses honor the “Do Not Track” requests, please read their privacy policies.
+
+##### Information may be sent to you
+
+1. The necessary verification code to complete the service;
+2. Push notifications when using the application and services;
+3. Current information about ride and discount;
+4. News, special promotions and promotional activities on BuzzVox's application
 
 ##### Changes to this privacy policy
 
