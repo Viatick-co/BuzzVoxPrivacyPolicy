@@ -124,9 +124,16 @@ The Data Controller reserves the right to make changes to this privacy policy at
 ##### Information about this privacy policy
 
 The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by BuzzVox and hosted on BuzzVox's servers.
-  ##### Rules and agreement to use smart racks  The smart rack is an infrastructure that is for anyone and everyone. Users who do not comply with the rules of usage will be banned permanently. 
+
+##### Rules and agreement to use smart racks
+
+The smart rack is an infrastructure that is for anyone and everyone. Users who do not comply with the rules of usage will be banned permanently. 
 
 Any bicycles/PMDs locked at the smart rack for more than 48 hours will be automatically opened and released
 Bicycles/PMDs unlocked as a violation of the point above will be impounded by BuzzVox, with a release fee of $200
 Users who chain their own locks at the smart racks will have their locks cut. BuzzVox reserves the right to impound bicycles/PMDs chained, with a release fee of $200
-Attempts to contact users will be made prior to the release of the lock. Should the user be non reachable in reasonable steps taken by BuzzVox for such contact purposes, BuzzVox will release the lock and impound the bicycles/PMDs, with a release fee of $200  ##### Spoiled locks, lock failure  It is in our public interest to ensure the workability of the smart rack. In the event the locks malfunction, a support ticket will be generated to solve the issue. During this period, we seek your understanding that our support and maintenance team will get back to you. The following are reaction times that our support team will get back to you on:  10am - 10pm : Within 6 hours 10pm onwards : Within 12 hours
+Attempts to contact users will be made prior to the release of the lock. Should the user be non reachable in reasonable steps taken by BuzzVox for such contact purposes, BuzzVox will release the lock and impound the bicycles/PMDs, with a release fee of $200
+
+##### Spoiled locks, lock failure
+
+It is in our public interest to ensure the workability of the smart rack. In the event the locks malfunction, a support ticket will be generated to solve the issue. During this period, we seek your understanding that our support and maintenance team will get back to you. The following are reaction times that our support team will get back to you on:  10am - 10pm : Within 6 hours 10pm onwards : Within 12 hours
