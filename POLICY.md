@@ -137,6 +137,6 @@ Attempts to contact users will be made prior to the release of the lock. Should 
 
 ##### Spoiled locks, lock failure
 
-It is in our public interest to ensure the workability of the smart rack. In the event the locks malfunction, a support ticket will be generated to solve the issue. During this period, we seek your understanding that our support and maintenance team will get back to you. The following are reaction times that our support team will get back to you on:
-10am - 10pm : Within 6 hours
-10pm onwards : Within 12 hours
+It is in our public interest to ensure the workability of the smart rack. In the event the locks malfunction, a support ticket will be generated to solve the issue. During this period, we seek your understanding that our support and maintenance team will get back to you. The following are reaction times that our support team will get back to you on:;
+10am - 10pm : Within 6 hours;
+10pm onwards : Within 12 hours;
