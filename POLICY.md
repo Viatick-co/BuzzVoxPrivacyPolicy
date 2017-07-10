@@ -133,7 +133,7 @@ Any bicycles/PMDs locked at the smart rack for more than 48 hours will be automa
 Bicycles/PMDs unlocked as a violation of the point above will be impounded by BuzzVox, with a release fee of $200
 Users who chain their own locks at the smart racks will have their locks cut. BuzzVox reserves the right to impound bicycles/PMDs chained, with a release fee of $200
 
-Attempts to contact users will be made prior to the release of the lock. Should the user be non reachable in reasonable steps taken by BuzzVox for such contact purposes, BuzzVox will release the lock and impound the bicycles/PMDs, with a release fee of $200
+Attempts to contact users will be made prior to the release of the lock. Should the user be non reachable in reasonable steps taken by BuzzVox for such contact purposes, BuzzVox will release the lock and impound the bicycles/PMDs, with a release fee of $200.
 
 ##### Spoiled locks, lock failure
 
