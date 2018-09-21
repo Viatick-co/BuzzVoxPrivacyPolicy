@@ -5,7 +5,7 @@ This Application collects some Personal Data from its Users.
 ## Policy summary
 
 Personal Data collected for the following purposes and using the following services:
-		
+  
         Device permissions for Personal Data access 
         Personal Data: Microphone permission 
 
@@ -131,7 +131,7 @@ The smart rack is an infrastructure that is for anyone and everyone. Users who d
 
 Any bicycles/PMDs locked at the smart rack for more than 48 hours will be automatically opened and released
 Bicycles/PMDs unlocked as a violation of the point above will be impounded by BuzzVox, with a release fee of $200
-Users who chain their own locks at the smart racks will have their locks cut. BuzzVox reserves the right to impound bicycles/PMDs chained, with a release fee of $200
+Users who chain their own locks at the smart racks will have their locks cut. BuzzVox reserves the right to impound bicycles/PMDs chained, with a release fee of $200 Third party providers who have no agreement, or pre arranged parking arrangements with BuzzVox, will be considered trespassing, and will have their inventory impounded, with a release admin fee of $100.
 
 Attempts to contact users will be made prior to the release of the lock. Should the user be non reachable in reasonable steps taken by BuzzVox for such contact purposes, BuzzVox will release the lock and impound the bicycles/PMDs, with a release fee of $200.
 
